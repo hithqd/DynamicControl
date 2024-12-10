@@ -12,6 +12,10 @@
   </a>
 </div>
 
+## Updates
+- **`2024/12/04`**: Our [**DynamicControl paper**](https://arxiv.org/abs/2412.03255) is available.
+
+  
 
 ## Citation
 
