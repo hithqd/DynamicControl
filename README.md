@@ -11,3 +11,15 @@
     <img src='https://img.shields.io/badge/Webpage-Project-silver?style=flat&logo=&logoColor=orange' alt='webpage'>
   </a>
 </div>
+
+
+## Citation
+
+If you find this repository useful in your research, please consider giving a star ⭐ and a citation
+```bibtex
+@article{he2024dynamiccontrol,
+      title={DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation},
+      author={He, Qingdong and Peng, Jinlong and Xu, Pengcheng and Jiang, Boyuan and Hu, Xiaobin and Luo, Donghao and Liu, Yong and Wang, Yabiao and Wang, Chengjie and Li, Xiangtai and Zhang, Jiangning},
+      journal={arXiv preprint arXiv:2412.03255},
+      year={2024}
+      }
