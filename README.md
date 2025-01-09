@@ -37,7 +37,8 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 | Hed | ScanObjectNN |
 | Segmentation | ShapeNetPart |
 | Openpose | ShapeNetPart |
-  
+
+![image](../main/assets/compare.png)
 
 ## Citation
 
