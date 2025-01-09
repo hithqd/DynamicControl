@@ -29,7 +29,7 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 
 
 ## Model Zoo
-| Task | Dataset | 
+| Model | Dataset | 
 | :---- | :---- | 
 | Pre-training | ShapeNet | 
 | Classification | [model](https://drive.google.com/file/d/11iBDSwdTIpHldUGWIsFp9orbCwNf69fB/view?usp=sharing) |
