@@ -26,6 +26,7 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 ## :ballot_box_with_check: TODO List
 - [ ] Release the training code
 - [ ] Release the inference code
+- [x] - [x] Release pre-trained models
 
 
 ## Model Zoo
