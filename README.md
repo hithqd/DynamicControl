@@ -36,7 +36,7 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 | Depth | [model](https://drive.google.com/file/d/1iZkwdanzapD1NKCcXty5XAi53cJluwhV/view?usp=sharing)|
 | Hed | [model](https://drive.google.com/file/d/1zO_ml2-jyXSjsuoSp5WpjhPnACBuIJ3_/view?usp=sharing) |
 | Segmentation | [model] |
-| Openpose | [model] |
+| Openpose | [model](https://drive.google.com/file/d/1NxglWpoTZQLp5LaXdF3tUdAc3rNvVV2n/view?usp=sharing) |
 
 ![image](../main/assets/compare.png)
 
