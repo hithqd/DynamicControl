@@ -30,12 +30,13 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 
 
 ## Model Zoo
-| Model | Dataset | 
+| Model | Weights | 
 | :---- | :---- | 
-| Pre-training | ShapeNet | 
-| Classification | [model](https://drive.google.com/file/d/11iBDSwdTIpHldUGWIsFp9orbCwNf69fB/view?usp=sharing) |
-| Classification | ScanObjectNN |
-| Part Segmentation | ShapeNetPart |
+| Canny | ShapeNet | 
+| Depth | [model](https://drive.google.com/file/d/11iBDSwdTIpHldUGWIsFp9orbCwNf69fB/view?usp=sharing) |
+| Hed | ScanObjectNN |
+| Segmentation | ShapeNetPart |
+| Openpose | ShapeNetPart |
   
 
 ## Citation
