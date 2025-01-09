@@ -19,7 +19,7 @@ To enhance the controllability of text-to-image diffusion models, current Contro
 ![image](../main/assets/framework.png) 
 
 ## Updates
-- **`2025/01/09`**: The model of our [**DynamicControl**] is available.
+- **`2025/01/09`**: The model of our **DynamicControl** is available.
 - **`2024/12/04`**: Our [**DynamicControl paper**](https://arxiv.org/abs/2412.03255) is available.
 
 
